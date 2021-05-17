@@ -11,7 +11,7 @@
 <div align="center">
  <h3>Find me in:</h3>
  <p>
-  <a href="https://linkedin.com/in/nahuelmol" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain-wordmark.svg?size=80&color=74bec2" alt="florencia vanina granucci" /></a>
+  <a href="https://linkedin.com/in/molinahuel" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain-wordmark.svg?size=80&color=74bec2" alt="florencia vanina granucci" /></a>
  </p>
 </div>  
 </br>
