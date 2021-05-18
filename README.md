@@ -39,5 +39,5 @@
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelmol&theme=react&show_icons=true)
 </br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol&layout=compact)](https://github.com/nahuelmol/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol&layout=compact)
 </div>
