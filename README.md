@@ -1,20 +1,20 @@
 
 <h3 align="center">Backend Developer</h3>
 <p align="center">
-   <img height="32" width="32" src="medium-line.svg" />
-   <img height="32" width="32" src="linkedin-box-line.svg" />
-   <img height="32" width="32" src="telegram-line.svg" />
-   <img height="32" width="32" src="npmjs-line.svg" />
+   <a href="https://linkedin.com/in/molinahuel" target="blank"><img height="50" width="50" src="medium-line.svg" />
+   <a href="https://molinahuel.medium.com/" target="blank"><img height="50" width="50" src="linkedin-box-line.svg" />
+   <img height="50" width="50" src="telegram-line.svg" />
+   <img height="50" width="50" src="npmjs-line.svg" />
 
 </p>
 </br>
-<div align="center">
- <h3>Find me in:</h3>
- <p>
-  <a href="https://linkedin.com/in/molinahuel" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain-wordmark.svg?size=80&color=74bec2" alt="Silvio Nahuel Molina" /></a>
-  <a href="https://molinahuel.medium.com" target="blank"><img align="center" src="https://icongr.am/fontawesome/medium.svg?size=80&color=currentColor"></a>
-</p>
-</div>  
+
+
+
+
+
+
+ 
 </br>
 <div align="center"> 
  <h3>Languages</h3>
