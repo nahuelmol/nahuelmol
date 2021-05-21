@@ -1,7 +1,11 @@
 
 <h3 align="center">Backend Developer</h3>
 <p align="center">
-   
+   <img height="32" width="32" src="medium.svg" />
+   <img height="32" width="32" src="linkedin-fill.svg" />
+   <img height="32" width="32" src="telegram-fill.svg" />
+   <img height="32" width="32" src="-fill.svg" />
+
 </p>
 </br>
 <div align="center">
