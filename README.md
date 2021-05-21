@@ -1,13 +1,6 @@
 
 <h3 align="center">Backend Developer</h3>
-<div align="center">
-   <h3>Find me</h3>
-   <a href="https://linkedin.com/in/molinahuel" target="blank"><img height="50" width="50" src="medium-line.svg" />
-   <img height="50" width="50" src="telegram-line.svg" />
-   <img height="50" width="50" src="whatsapp-line.svg" />
-   <a href="https://molinahuel.medium.com/" target="blank"><img height="50" width="50" src="linkedin-box-line.svg" />
-   
-</div>
+
 </br>
 <div align="center"> 
  <h3>Languages</h3>
@@ -24,12 +17,21 @@
 </div>
 <div align="center">
  </br>
- <h4>Portfolio</h4>
- (https://devpost.com/nahuelmol)
- </br>
- <h4>Github stats:</h4>
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelmol&theme=react&show_icons=true)
-</br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol&layout=compact)
+ <details>
+  <summary>Some stats about me</summary>
+  <br>
+  (https://devpost.com/nahuelmol)
+  </br>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelmol&theme=react&show_icons=true)
+   </br>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol&layout=compact)
+  <br><br>
+ </details>
+</div>
+<div align="center">
+   <h3>Find me</h3>
+   <a href="https://linkedin.com/in/molinahuel" target="blank"><img height="50" width="50" src="medium-line.svg" />
+   <img height="50" width="50" src="telegram-line.svg" />
+   <img height="50" width="50" src="whatsapp-line.svg" />
+   <a href="https://molinahuel.medium.com/" target="blank"><img height="50" width="50" src="linkedin-box-line.svg" />   
 </div>
