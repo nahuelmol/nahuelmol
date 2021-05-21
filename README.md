@@ -18,14 +18,16 @@
 <div align="center">
  </br>
  <details>
-  <summary>Some stats about me</summary>
-  <br>
-  (https://devpost.com/nahuelmol)
-  </br>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelmol&theme=react&show_icons=true)
+   <summary>Some stats about me</summary>
+   <div align="center">   
    </br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol&layout=compact)
-  <br><br>
+   <a href="https://devpost.com/nahuelmol"><p>Portfolio</p></a>
+   </br>
+   <img src="https://github-readme-stats.vercel.app/api?username=nahuelmol&theme=react&show_icons=true"/>
+   </br></br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol&layout=compact"/>
+   <br><br>
+   </div>
  </details>
 </div>
 <div align="center">
