@@ -1,20 +1,12 @@
 
 <h3 align="center">Backend Developer</h3>
-<p align="center">
+<div align="center">
+   <h3>Find me</h3>
    <a href="https://linkedin.com/in/molinahuel" target="blank"><img height="50" width="50" src="medium-line.svg" />
    <a href="https://molinahuel.medium.com/" target="blank"><img height="50" width="50" src="linkedin-box-line.svg" />
    <img height="50" width="50" src="telegram-line.svg" />
    <img height="50" width="50" src="npmjs-line.svg" />
-
-</p>
-</br>
-
-
-
-
-
-
- 
+</div>
 </br>
 <div align="center"> 
  <h3>Languages</h3>
