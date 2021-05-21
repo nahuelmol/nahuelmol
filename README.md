@@ -1,6 +1,10 @@
-
-<h3 align="center">Backend Developer</h3>
-
+<div align="center">
+   <h3 align="center">Backend Developer</h3>
+   <i><p>* I'm backend developer and even..</p>
+   <p>- Sometimes i write in Medium</p>
+   <p>- Constantly i'm learning German</p>
+</i>
+</div>
 </br>
 <div align="center"> 
  <h3>Languages</h3>
