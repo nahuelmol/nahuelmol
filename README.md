@@ -1,12 +1,7 @@
 
 <h3 align="center">Backend Developer</h3>
 <p align="center">
-   <img src="https://img.shields.io/github/license/nahuelmol/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/stars/nahuelmol/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/forks/nahuelmol/waka-readme-stats"/>
-   <a href="https://github.com/nahuelmol/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nahuelmol/github-readme-stats?color=0088ff" />
-   </a>
+   
 </p>
 </br>
 <div align="center">
