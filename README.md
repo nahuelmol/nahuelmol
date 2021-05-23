@@ -1,8 +1,10 @@
 <div align="center">
    <h2 align="center">Backend Developer</h2>
    <i><h4>* I'm backend developer and also..</h4>
-   <p>-I write in Medium</p>
-   <p>-In learning German procces</p>
+   <div align="center">
+      <p>-I write in Medium</p>
+      <p>-In learning German procces</p>
+      </div>
 </i>
 </div>
 </br>
