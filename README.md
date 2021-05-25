@@ -38,8 +38,8 @@
 </div>
 <div align="center">
    <h3>Find me</h3>
-   <a href="https://linkedin.com/in/molinahuel" target="blank"><img height="50" width="50" src="medium-line.svg" />
+   <a href="https://molinahuel.medium.com" target="blank"><img height="50" width="50" src="medium-line.svg" />
    <img height="50" width="50" src="telegram-line.svg" />
    <img height="50" width="50" src="whatsapp-line.svg" />
-   <a href="https://molinahuel.medium.com/" target="blank"><img height="50" width="50" src="linkedin-box-line.svg" />   
+   <a href="https://linkedin.com/in/molinahuel" target="blank"><img height="50" width="50" src="linkedin-box-line.svg" />   
 </div>
