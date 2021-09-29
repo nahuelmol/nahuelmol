@@ -1,0 +1,5 @@
+inputs:
+  SHOW_LANGUAGE:
+    required: false
+    description: "Show the Coding language used in dev metrics"
+    default: "True"
