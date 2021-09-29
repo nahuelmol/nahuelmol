@@ -31,14 +31,9 @@
    </br>
    <img src="https://github-readme-stats.vercel.app/api?username=nahuelmol&theme=react&show_icons=true"/>
    </br></br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol&layout=compact"/>
-   <br><br>
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol)](https://github.com/anuraghazra/github-readme-stats)
    
-   <br><br>
-   
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
    
