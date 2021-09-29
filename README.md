@@ -33,6 +33,8 @@
    </br></br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelmol&layout=compact"/>
    <br><br>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelmol)
+   <br><br>
    </div>
  </details>
 </div>
