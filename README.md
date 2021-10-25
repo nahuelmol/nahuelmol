@@ -3,7 +3,7 @@
    <i><h4>* I'm backend developer and also..</h4>
    <div align="center">
       <p>-I write in Medium</p>
-      <p>-In learning German procces</p>
+      <p>-and learning German</p>
       </div>
 </i>
 </div>
