@@ -10,8 +10,6 @@
 </br>
 <div align="center"> 
  <h3>Languages</h3>
- <a href="https://golang.org"><img src="https://icongr.am/devicon/go-plain.svg?size=80&color=74bec2"></a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://i.ibb.co/W0mzJxc/icons8-css3-128.png" alt="css3" width="80" height="80"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.ibb.co/rGYm7Lh/icons8-javascript-logo-128.png" alt="js" width="80" height="80"/> </a> 
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-plain.svg?size=80&color=74bec2" alt="postgresql"/></a> 
  <a href="https://nodejs.org/es/" target="_blank"> <img src="https://icongr.am/devicon/nodejs-plain.svg?size=80&color=74bec2" alt="node"/></a> 
