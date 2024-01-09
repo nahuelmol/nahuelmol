@@ -41,7 +41,5 @@
 <div align="center">
    <h3>Find me</h3>
    <a href="https://molinahuel.medium.com" target="blank"><img height="50" width="50" src="medium-line.svg" />
-   <a href="https://t.me/nahuelino" target="blank"><img height="50" width="50" src="telegram-line.svg"/></a>
-   <a href="https://wa.me/542644364153" target="blank"><img height="50" width="50" src="whatsapp-line.svg"/></a>
    <a href="https://linkedin.com/in/molinahuel" target="blank"><img height="50" width="50" src="linkedin-box-line.svg" />   
 </div>
