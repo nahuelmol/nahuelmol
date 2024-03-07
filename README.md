@@ -1,8 +1,8 @@
 <div align="center">
    <h2 align="center">Welcome to my github</h2>
-   :octocat:   Making commits
-   :computer:   learning rust
-   :volcano:   studying the physics on the earth
+   :octocat:   Making commits </br>
+   :computer:   learning rust </br>
+   :volcano:   studying the physics on the earth </br>
    
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahuelmol)](https://git.io/streak-stats)
    
