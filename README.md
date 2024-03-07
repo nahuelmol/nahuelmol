@@ -1,10 +1,12 @@
-<div align="center">
+<div style="font-family:Arial;" align="center">
    <h2 align="center">Welcome to my github</h2>
-   What I am doing frequently?
+  <b>What I am doing frequently?</b>
    </br>
-   :octocat:   Making commits </br>
-   :computer:   learning rust </br>
-   :volcano:   studying the physics of the earth </br>
+   </br>
+   :octocat:   <em>making commits</em> </br>
+   :computer:  <em>learning rust</em> </br>
+   :keyboard:  <em>doing vim</em> </br>
+   :volcano:   <em>studying the physics of the earth</em> </br>
    </br>
    
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahuelmol)](https://git.io/streak-stats)
