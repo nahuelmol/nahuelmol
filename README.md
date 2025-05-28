@@ -3,7 +3,7 @@
   <b>and I am </b>
    </br>
    </br>
-   :octocat:   <em>making commits</em> </br>
+   :octocat:   <em>being</em> </br>
    :keyboard:  <em>viming</em> </br>
    </br>
    
