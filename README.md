@@ -1,9 +1,8 @@
 <div style="font-family:Arial;" align="center">
    <h2 align="center">Welcome to my github</h2>
-  <b>and I am </b>
+  <b>I am Nahuel</b>
    </br>
    </br>
-   :octocat:   <em>being</em> </br>
    :keyboard:  <em>viming</em> </br>
    </br>
    
@@ -18,14 +17,13 @@
       
    </div> 
  <details>
-   <summary>Some stats about me</summary>
-    <div align="center">
-      <h3>Find me</h3>
-      <a href="https://molinahuel.medium.com" target="blank"><img height="50" width="50" src="medium-line.svg" />
+   <summary>
+      <p>Find me</p>
+   </summary>
+   <div align="center">
       <a href="https://linkedin.com/in/molinahuel" target="blank"><img height="50" width="50" src="linkedin-box-line.svg" />   
    </div>   
    </br>
-   </div>
  </details>
 </div>
 
